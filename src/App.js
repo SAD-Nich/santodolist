@@ -62,7 +62,7 @@ function App() {
   },[])
   return (
     <div className="App">
-      <h1>San's ToDoList</h1>
+      <h1>San's ToDoList by Nicholaus Santo - 2602174415</h1>
       <div className="wrapper">
         <div className="inputs">
           <div className="inputing-items">
